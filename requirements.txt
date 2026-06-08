@@ -1,0 +1,21 @@
+# Core
+websockets==12.0
+aiohttp==3.9.3
+
+# Data
+pandas==2.2.0
+numpy==1.26.4
+
+# DB
+redis==5.0.1
+
+# AI
+anthropic==0.25.0
+
+# Telegram
+python-telegram-bot==20.7
+
+# Utils
+python-dotenv==1.0.0
+loguru==0.7.2
+pydantic==2.6.0
