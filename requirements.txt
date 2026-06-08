@@ -4,7 +4,7 @@ aiohttp==3.9.3
 
 # Data
 pandas>=2.2.3,<3.0
-numpy==1.26.4
+numpy>=2.0.0
 
 # DB
 redis==5.0.1
